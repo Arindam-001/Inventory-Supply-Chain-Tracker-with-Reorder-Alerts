@@ -180,11 +180,13 @@ Dashboard screenshots are available in the `screenshots` folder.
 
 ### Executive Dashboard
 
-![Executive Dashboard](screenshots/Executive_Dashboard.png)
+![Executive Dashboard](screenshots/Executive_Dashboard.png)<img width="1091" height="643" alt="IMG-20260830-WA0003" src="https://github.com/user-attachments/assets/bce42777-0ed2-4fac-b521-44bf40c4003b" />
+
 
 ### Inventory & Reorder Dashboard
 
-![Inventory Dashboard](screenshots/Inventory_Dashboard.png)
+![Inventory Dashboard](screenshots/Inventory_Dashboard.png) <img width="1237" height="638" alt="IMG-20260830-WA0004" src="https://github.com/user-attachments/assets/0645deca-7a36-4057-94e0-6f6ccfeb72bb" />
+
 
 ---
 
